@@ -1,12 +1,10 @@
 # Здравствуй!👋🏻
 
-### Меня зовут Андрей, я фронтенд-разработчик
+### Меня зовут Андрей, я разработчик
 
 **Мой технологический стек:**
 
-* HTML/CSS
-* JavaScript
-* React
+
 <!--
 **AndrewGanzha/AndrewGanzha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
