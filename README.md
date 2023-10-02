@@ -1,7 +1,7 @@
 # <div align="center">Hello, my name is Andrew Ganzha and I'm a frontent developer 🤟</div>  
   
 
-### <div align="center">Right now work in Tinkoff Journal ❤️</div>  
+### <div align="center">Right now work in CROC ❤️</div>  
   
 
 -  ⚛️ I’m currently learning JavaScript, TypeScript, algorithms and Vue  
