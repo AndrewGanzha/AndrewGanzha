@@ -1,26 +1,18 @@
-# <div align="center">Hello, my name is Andrew Ganzha and I'm a frontent developer 🤟</div>  
-  
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Andrew Ganzha
+=====================================================================================================================================
 
-### <div align="center">Right now work in CROC ❤️</div>  
-  
+Front-end Developer
+-------------------
 
--  ⚛️ I’m currently learning JavaScript, TypeScript, algorithms and Vue  
-  
+Увлекаюсь разработкой во всех ее проявлениях! Хобби: поездки на велосипеде, игра в футбол
 
-<br/>  
+* 🌍  I'm based in Moscow
+* ✉️  You can contact me at [ganzha-2002@mail.ru](mailto:ganzha-2002@mail.ru)
+* 🚀  I'm currently working on [КРОК](http://https://www.croc.ru/)
 
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
-</td><td valign="top" width="33%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=AndrewGanzha&show_icons=true&count_private=true&hide_border=true" align="left" />
-
-</td><td valign="top" width="33%">
-
-# **<div align="center">WORK<br>SLEEP<br>REPEAT</div>**  
+### Skills
 
 
-</td></tr></table>  
-
-<br/>  
+<p align="left">
+<a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a><a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJS" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+</p>
