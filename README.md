@@ -8,7 +8,7 @@ Front-end Developer
 
 * 🌍  I'm based in Moscow
 * ✉️  You can contact me at [ganzha-2002@mail.ru](mailto:ganzha-2002@mail.ru)
-* 🚀  I'm currently working on [КРОК](http://https://www.croc.ru/)
+* 🚀  I'm currently working on [КРОК](https://www.croc.ru/)
 
 ### Skills
 
