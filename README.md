@@ -36,11 +36,11 @@
 
 ## 📈 GitHub статистика
 
-[![Ваша статистика GitHub](https://github-readme-stats.vercel.app/api?username=ВАШUSERNAME&show_icons=true&theme=radical&hide_border=true)](https://github.com/AndrewGanzha)
+[![Ваша статистика GitHub](https://github-readme-stats.vercel.app/api?username=AndrewGanzha&show_icons=true&theme=radical&hide_border=true)](https://github.com/AndrewGanzha)
 
-[![Топ языков](https://github-readme-stats.vercel.app/api/top-langs/?username=ВАШUSERNAME&layout=compact&theme=radical&hide_border=true)](https://github.com/AndrewGanzha)
+[![Топ языков](https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewGanzha&layout=compact&theme=radical&hide_border=true)](https://github.com/AndrewGanzha)
 
-[![Стрик коммитов](https://github-readme-streak-stats.herokuapp.com/?user=ВАШUSERNAME&theme=radical&hide_border=true)](https://github.com/AndrewGanzha)
+[![Стрик коммитов](https://github-readme-streak-stats.herokuapp.com/?user=AndrewGanzha&theme=radical&hide_border=true)](https://github.com/AndrewGanzha)
 
 ## 📫 Контакты
 
