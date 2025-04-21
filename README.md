@@ -40,7 +40,7 @@
 
 [![Топ языков](https://github-readme-stats.vercel.app/api/top-langs/?username=ВАШUSERNAME&layout=compact&theme=radical&hide_border=true)](https://github.com/AndrewGanzha)
 
-[![Стрик коммитов](https://github-readme-streak-stats.herokuapp.com/?user=ВАШUSERNAME&theme=radical&hide_border=true)](https://github.com/ВАШUSERNAME)
+[![Стрик коммитов](https://github-readme-streak-stats.herokuapp.com/?user=ВАШUSERNAME&theme=radical&hide_border=true)](https://github.com/AndrewGanzha)
 
 ## 📫 Контакты
 
