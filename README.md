@@ -1,6 +1,6 @@
 # 👋 Привет! Меня зовут Андрей
 
-Я Frontend-разработчик с опытом создания современных и отзывчивых веб-приложений.
+Я Fullstack-разработчик с опытом создания современных и отзывчивых веб-приложений.
 
 ## 🛠 Технологический стек
 
@@ -12,6 +12,7 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-v12-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
 ### Стилизация:
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
